@@ -31,10 +31,10 @@ I'm a student. I love doing programming. I make webapps, blogs, and ui designs.
 
 ## My Github Stats
 <a href='https://github.com/mdgaziur'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdgaziur&theme=dark&hide_border=true&langs_count=5&layout=compact"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdgaziur&theme=dark&hide_border=true&langs_count=10&layout=compact"/>
 </a>
 <a href='https://github.com/mdgaziur'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdgaziur&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&line_height=40&custom_title=My%20Github%20Status"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdgaziur&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&line_height=20&custom_title=My%20Github%20Status"/>
 </a>
 
 ## Pinned Repositories
