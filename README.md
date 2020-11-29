@@ -7,7 +7,7 @@
 ![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=for-the-badge&logo=visual-studio-code&color=007ACC)
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&color=3776AB)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=for-the-badge&logo=javascript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-Typescript-informational?style=for-the-badge&logo=typescript&color=007ACC)
+![](https://img.shields.io/badge/Code-Typescript-informational?style=for-the-badge&logo=typescript&color=007ACC&logoColor=007ACC)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=for-the-badge&logo=node.js&color=339933)
 ![](https://img.shields.io/badge/Code-C-informational?style=for-the-badge&logo=c&color=A8B9CC)
 ![](https://img.shields.io/badge/Code-C%2b%2b-informational?style=for-the-badge&logo=c%2b%2b&color=00599C)
