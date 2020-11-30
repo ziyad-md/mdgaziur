@@ -49,6 +49,11 @@ I'm a student. I love doing programming. I make webapps, blogs, and ui designs.
 - ### Tools
   ![](https://img.shields.io/badge/Tool-Docker-informational?style=for-the-badge&logo=docker&color=2496ED)
 
+## Social Network Accounts
+![Twitter Follow](https://img.shields.io/twitter/follow/mdgaziurrahman7?color=1DA1F2&logo=twitter&logoColor=1DA1F2&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/mdgaziur?color=181717&label=Follow%20me%20at%20GitHub&logo=github&style=for-the-badge)
+![Facebook Account](https://img.shields.io/badge/Facebook-Account-informational?style=for-the-badge&logo=facebook&color=1877F2)
+
 
 ## My Github Stats
 <a href='https://github.com/mdgaziur'>
