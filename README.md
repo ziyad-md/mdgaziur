@@ -5,25 +5,49 @@ I'm a student. I love doing programming. I make webapps, blogs, and ui designs.
 - 📫 How to reach me: mdgaziurrahmannoor@gmail.com
 
 ## My Skills
-![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&color=FCC624)
-![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=windows&color=0078D6)
-![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=for-the-badge&logo=visual-studio-code&color=007ACC)
-![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&color=3776AB)
-![](https://img.shields.io/badge/Code-Javascript-informational?style=for-the-badge&logo=javascript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-Typescript-informational?style=for-the-badge&logo=typescript&color=007ACC&logoColor=007ACC)
-![](https://img.shields.io/badge/Code-Node.js-informational?style=for-the-badge&logo=node.js&color=339933)
-![](https://img.shields.io/badge/Code-C-informational?style=for-the-badge&logo=c&color=A8B9CC)
-![](https://img.shields.io/badge/Code-C%2b%2b-informational?style=for-the-badge&logo=c%2b%2b&color=00599C)
-![](https://img.shields.io/badge/Library-React-informational?style=for-the-badge&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Query%20Language-GraphQL-informational?style=for-the-badge&logo=graphql&color=E10098)
-![](https://img.shields.io/badge/Library-TypeGraphQL-informational?style=for-the-badge&logo=graphql&color=E10098)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=for-the-badge&logo=mongodb&color=47A248)
-![](https://img.shields.io/badge/ORM-Mongoose-informational?style=for-the-badge&color=47A248)
-![](https://img.shields.io/badge/ORM-Typegoose-informational?style=for-the-badge&color=007ACC)
-![](https://img.shields.io/badge/Framework-Express-informational?style=for-the-badge&logo=express&color=000)
-![](https://img.shields.io/badge/Framework-Flask-informational?style=for-the-badge&logo=flask&color=000)
-![](https://img.shields.io/badge/Framework-Apollo%20GraphQL-informational?style=for-the-badge&logo=apollo%20graphql&color=311C87)
-![](https://img.shields.io/badge/Tool-Docker-informational?style=for-the-badge&logo=docker&color=2496ED)
+
+- ### OS  
+  ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&color=FCC624)
+  ![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=windows&color=0078D6)
+  
+- ### Editors
+  ![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=for-the-badge&logo=visual-studio-code&color=007ACC)
+
+- ### Programming Languages
+  ![](https://img.shields.io/badge/Programming%20Language-Python-informational?style=for-the-badge&logo=python&color=3776AB)
+  ![](https://img.shields.io/badge/Programming%20Language-Javascript-informational?style=for-the-badge&logo=javascript&color=F7DF1E)
+  ![](https://img.shields.io/badge/Programming%20Language-Typescript-informational?style=for-the-badge&logo=typescript&color=007ACC&logoColor=007ACC)
+  ![](https://img.shields.io/badge/Programming%20Language-Node.js-informational?style=for-the-badge&logo=node.js&color=339933)
+  ![](https://img.shields.io/badge/Programming%20Language-C-informational?style=for-the-badge&logo=c&color=A8B9CC)
+  ![](https://img.shields.io/badge/Programming%20Language-C%2b%2b-informational?style=for-the-badge&logo=c%2b%2b&color=00599C)
+
+- ### Web designing
+  ![](https://img.shields.io/badge/Style%20Sheet%20Language-Sass-informational?style=for-the-badge&logo=sass&color=CC6699)
+  ![](https://img.shields.io/badge/Style%20Sheet%20Language-CSS-informational?style=for-the-badge&logo=css3&color=1572B6)
+  ![](https://img.shields.io/badge/Markup%20Language-HTML-informational?style=for-the-badge&logo=html5&color=E34F26)
+
+- ### Libraries
+  ![](https://img.shields.io/badge/Library-React-informational?style=for-the-badge&logo=react&color=61DAFB)
+  ![](https://img.shields.io/badge/Library-TypeGraphQL-informational?style=for-the-badge&logo=graphql&color=E10098)
+
+- ### Query Language
+  ![](https://img.shields.io/badge/Query%20Language-GraphQL-informational?style=for-the-badge&logo=graphql&color=E10098)
+
+- ### Database
+  ![](https://img.shields.io/badge/Database-MongoDB-informational?style=for-the-badge&logo=mongodb&color=47A248)
+
+- ### ORM
+  ![](https://img.shields.io/badge/ORM-Mongoose-informational?style=for-the-badge&color=47A248)
+  ![](https://img.shields.io/badge/ORM-Typegoose-informational?style=for-the-badge&color=007ACC)
+
+- ### Frameworks
+  ![](https://img.shields.io/badge/Framework-Express-informational?style=for-the-badge&logo=express&color=000)
+  ![](https://img.shields.io/badge/Framework-Flask-informational?style=for-the-badge&logo=flask&color=000)
+  ![](https://img.shields.io/badge/Framework-Apollo%20GraphQL-informational?style=for-the-badge&logo=apollo%20graphql&color=311C87)
+
+- ### Tools
+  ![](https://img.shields.io/badge/Tool-Docker-informational?style=for-the-badge&logo=docker&color=2496ED)
+
 
 ## My Github Stats
 <a href='https://github.com/mdgaziur'>
