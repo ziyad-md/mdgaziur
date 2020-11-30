@@ -12,6 +12,7 @@ I'm a student. I love doing programming. I make webapps, blogs, and ui designs.
   
 - ### Editors
   ![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=for-the-badge&logo=visual-studio-code&color=007ACC)
+  ![](https://img.shields.io/badge/Editor-PyCharm%20Community-informational?style=for-the-badge&logo=pycharm&color=000)
 
 - ### Programming Languages
   ![](https://img.shields.io/badge/Programming%20Language-Python-informational?style=for-the-badge&logo=python&color=3776AB)
