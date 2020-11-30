@@ -18,7 +18,7 @@ I'm a student. I love doing programming. I make webapps, blogs, and ui designs.
   ![](https://img.shields.io/badge/Programming%20Language-Python-informational?style=for-the-badge&logo=python&color=3776AB)
   ![](https://img.shields.io/badge/Programming%20Language-Javascript-informational?style=for-the-badge&logo=javascript&color=F7DF1E)
   ![](https://img.shields.io/badge/Programming%20Language-Typescript-informational?style=for-the-badge&logo=typescript&color=007ACC&logoColor=007ACC)
-  ![](https://img.shields.io/badge/Javascript%Runtime%20Environment-Node.js-informational?style=for-the-badge&logo=node.js&color=339933)
+  ![](https://img.shields.io/badge/Javascript%20Runtime%20Environment-Node.js-informational?style=for-the-badge&logo=node.js&color=339933)
   ![](https://img.shields.io/badge/Programming%20Language-C-informational?style=for-the-badge&logo=c&color=A8B9CC)
   ![](https://img.shields.io/badge/Programming%20Language-C%2b%2b-informational?style=for-the-badge&logo=c%2b%2b&color=00599C)
 
