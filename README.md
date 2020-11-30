@@ -1,5 +1,8 @@
 ![](https://media.giphy.com/media/tuvMgAPzxaQBq/giphy.gif)
 # Hi there
+I'm a student. I love doing programming. I make webapps, blogs, and ui designs.
+- 🌱 I’m currently learning React, Typescript
+- 📫 How to reach me: mdgaziurrahmannoor@gmail.com
 
 ## My Skills
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&color=FCC624)
@@ -21,13 +24,6 @@
 ![](https://img.shields.io/badge/Framework-Flask-informational?style=for-the-badge&logo=flask&color=000)
 ![](https://img.shields.io/badge/Framework-Apollo%20GraphQL-informational?style=for-the-badge&logo=apollo%20graphql&color=311C87)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=for-the-badge&logo=docker&color=2496ED)
-
-
-## About Me
-I'm a student. I love doing programming. I make webapps, blogs, and ui designs.
-- 🌱 I’m currently learning React, Typescript
-- 📫 How to reach me: mdgaziurrahmannoor@gmail.com
-
 
 ## My Github Stats
 <a href='https://github.com/mdgaziur'>
