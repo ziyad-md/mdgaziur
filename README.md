@@ -51,7 +51,7 @@ I'm a student. I love doing programming. I make webapps, blogs, and ui designs.
 ## My Coding Activity
 <a href='https://github.com/mdgaziur'>
   
-  ![mdgaziur001's coding activity](https://github-readme-stats.vercel.app/api/wakatime?username=mdgaziur001)
+  ![mdgaziur001's coding activity](https://github-readme-stats.vercel.app/api/wakatime?username=mdgaziur001&theme=dark&layout=compact)
   
 </a>
 
