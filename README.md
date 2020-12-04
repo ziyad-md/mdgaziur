@@ -88,9 +88,9 @@ I'm a student. I love doing programming. I make webapps, blogs, and ui designs.
 ## My Recent Activity on Github
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#156](https://github.com/sarim/ibus-avro/issues/156) in [sarim/ibus-avro](https://github.com/sarim/ibus-avro)
-2. ❗️ Opened issue [#156](https://github.com/sarim/ibus-avro/issues/156) in [sarim/ibus-avro](https://github.com/sarim/ibus-avro)
-3. ❗️ Opened issue [#1259](https://github.com/yakyak/yakyak/issues/1259) in [yakyak/yakyak](https://github.com/yakyak/yakyak)
-4. 🗣 Commented on [#2](https://github.com/developedbyed/music-player-react/issues/2) in [developedbyed/music-player-react](https://github.com/developedbyed/music-player-react)
-5. 🎉 Merged PR [#5](https://github.com/mdvirus/Ranky/pull/5) in [mdvirus/Ranky](https://github.com/mdvirus/Ranky)
+1. 🎉 Merged PR [#3](https://github.com/mdgaziur/github-slideshow/pull/3) in [mdgaziur/github-slideshow](https://github.com/mdgaziur/github-slideshow)
+2. 💪 Opened PR [#3](https://github.com/mdgaziur/github-slideshow/pull/3) in [mdgaziur/github-slideshow](https://github.com/mdgaziur/github-slideshow)
+3. ❗️ Closed issue [#1](https://github.com/mdgaziur/github-slideshow/issues/1) in [mdgaziur/github-slideshow](https://github.com/mdgaziur/github-slideshow)
+4. 🗣 Commented on [#156](https://github.com/sarim/ibus-avro/issues/156) in [sarim/ibus-avro](https://github.com/sarim/ibus-avro)
+5. ❗️ Opened issue [#156](https://github.com/sarim/ibus-avro/issues/156) in [sarim/ibus-avro](https://github.com/sarim/ibus-avro)
 <!--END_SECTION:activity-->
