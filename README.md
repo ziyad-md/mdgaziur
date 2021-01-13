@@ -65,6 +65,10 @@ I'm a student. I love doing programming. I make webapps, blogs, and ui designs.
 
 ## Pinned Repositories
 <a href='https://github.com/mdgaziur/editorjs-latex'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdgaziur&repo=compcoder&theme=dark">
+</a>
+
+<a href='https://github.com/mdgaziur/editorjs-latex'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdgaziur&repo=editorjs-latex&theme=dark">
 </a>
 
