@@ -92,9 +92,9 @@ I'm a student. I love doing programming. I make webapps, blogs, and ui designs.
 ## My Recent Activity on Github
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/mdgaziur/CompCoder/pull/10) in [mdgaziur/CompCoder](https://github.com/mdgaziur/CompCoder)
-2. 💪 Opened PR [#9](https://github.com/mdgaziur/CompCoder/pull/9) in [mdgaziur/CompCoder](https://github.com/mdgaziur/CompCoder)
-3. 🎉 Merged PR [#7](https://github.com/mdgaziur/CompCoder/pull/7) in [mdgaziur/CompCoder](https://github.com/mdgaziur/CompCoder)
-4. 🎉 Merged PR [#8](https://github.com/mdgaziur/CompCoder/pull/8) in [mdgaziur/CompCoder](https://github.com/mdgaziur/CompCoder)
-5. ❌ Closed PR [#5](https://github.com/mdgaziur/CompCoder/pull/5) in [mdgaziur/CompCoder](https://github.com/mdgaziur/CompCoder)
+1. 🎉 Merged PR [#1](https://github.com/mdgaziur/basic-web-development-workshop/pull/1) in [mdgaziur/basic-web-development-workshop](https://github.com/mdgaziur/basic-web-development-workshop)
+2. 💪 Opened PR [#1](https://github.com/mdgaziur/basic-web-development-workshop/pull/1) in [mdgaziur/basic-web-development-workshop](https://github.com/mdgaziur/basic-web-development-workshop)
+3. 💪 Opened PR [#10](https://github.com/mdgaziur/CompCoder/pull/10) in [mdgaziur/CompCoder](https://github.com/mdgaziur/CompCoder)
+4. 💪 Opened PR [#9](https://github.com/mdgaziur/CompCoder/pull/9) in [mdgaziur/CompCoder](https://github.com/mdgaziur/CompCoder)
+5. 🎉 Merged PR [#7](https://github.com/mdgaziur/CompCoder/pull/7) in [mdgaziur/CompCoder](https://github.com/mdgaziur/CompCoder)
 <!--END_SECTION:activity-->
