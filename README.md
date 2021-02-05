@@ -92,9 +92,9 @@ I'm a student. I love doing programming. I make webapps, blogs, and ui designs.
 ## My Recent Activity on Github
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#334](https://github.com/react-monaco-editor/react-monaco-editor/issues/334) in [react-monaco-editor/react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor)
-2. 🗣 Commented on [#1](https://github.com/mdgaziur/optimpl/issues/1) in [mdgaziur/optimpl](https://github.com/mdgaziur/optimpl)
-3. ❌ Closed PR [#1](https://github.com/mdgaziur/optimpl/pull/1) in [mdgaziur/optimpl](https://github.com/mdgaziur/optimpl)
-4. 💪 Opened PR [#13](https://github.com/mdgaziur/CompCoder/pull/13) in [mdgaziur/CompCoder](https://github.com/mdgaziur/CompCoder)
-5. 💪 Opened PR [#12](https://github.com/mdgaziur/CompCoder/pull/12) in [mdgaziur/CompCoder](https://github.com/mdgaziur/CompCoder)
+1. 🗣 Commented on [#334](https://github.com/react-monaco-editor/react-monaco-editor/issues/334) in [react-monaco-editor/react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor)
+2. 🗣 Commented on [#334](https://github.com/react-monaco-editor/react-monaco-editor/issues/334) in [react-monaco-editor/react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor)
+3. ❗️ Opened issue [#334](https://github.com/react-monaco-editor/react-monaco-editor/issues/334) in [react-monaco-editor/react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor)
+4. 🗣 Commented on [#1](https://github.com/mdgaziur/optimpl/issues/1) in [mdgaziur/optimpl](https://github.com/mdgaziur/optimpl)
+5. ❌ Closed PR [#1](https://github.com/mdgaziur/optimpl/pull/1) in [mdgaziur/optimpl](https://github.com/mdgaziur/optimpl)
 <!--END_SECTION:activity-->
