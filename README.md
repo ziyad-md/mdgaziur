@@ -92,9 +92,9 @@ I'm a student. I love doing programming. I make webapps, blogs, and ui designs.
 ## My Recent Activity on Github
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/mdgaziur/CompCoder/pull/12) in [mdgaziur/CompCoder](https://github.com/mdgaziur/CompCoder)
-2. 🎉 Merged PR [#13](https://github.com/mdgaziur/CompCoder/pull/13) in [mdgaziur/CompCoder](https://github.com/mdgaziur/CompCoder)
-3. ❗️ Closed issue [#334](https://github.com/react-monaco-editor/react-monaco-editor/issues/334) in [react-monaco-editor/react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor)
-4. 🗣 Commented on [#334](https://github.com/react-monaco-editor/react-monaco-editor/issues/334) in [react-monaco-editor/react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor)
-5. 🗣 Commented on [#334](https://github.com/react-monaco-editor/react-monaco-editor/issues/334) in [react-monaco-editor/react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor)
+1. 🎉 Merged PR [#9](https://github.com/mdgaziur/CompCoder/pull/9) in [mdgaziur/CompCoder](https://github.com/mdgaziur/CompCoder)
+2. 🎉 Merged PR [#10](https://github.com/mdgaziur/CompCoder/pull/10) in [mdgaziur/CompCoder](https://github.com/mdgaziur/CompCoder)
+3. 🎉 Merged PR [#11](https://github.com/mdgaziur/CompCoder/pull/11) in [mdgaziur/CompCoder](https://github.com/mdgaziur/CompCoder)
+4. 🎉 Merged PR [#12](https://github.com/mdgaziur/CompCoder/pull/12) in [mdgaziur/CompCoder](https://github.com/mdgaziur/CompCoder)
+5. 🎉 Merged PR [#13](https://github.com/mdgaziur/CompCoder/pull/13) in [mdgaziur/CompCoder](https://github.com/mdgaziur/CompCoder)
 <!--END_SECTION:activity-->
