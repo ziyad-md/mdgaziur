@@ -64,6 +64,10 @@ I'm a student. I love doing programming. I make webapps, blogs, and ui designs.
 </a>
 
 ## Pinned Repositories
+<a href='https://github.com/mdgaziur/audio-streamer'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdgaziur&repo=chip8-rs&theme=dark">
+</a>
+
 <a href='https://github.com/mdgaziur/editorjs-latex'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdgaziur&repo=compcoder&theme=dark">
 </a>
@@ -74,10 +78,6 @@ I'm a student. I love doing programming. I make webapps, blogs, and ui designs.
 
 <a href='https://github.com/mdgaziur/shortee'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdgaziur&repo=shortee&theme=dark">
-</a>
-
-<a href='https://github.com/mdgaziur/audio-streamer'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdgaziur&repo=audio-streamer&theme=dark">
 </a>
 
 <br/>
