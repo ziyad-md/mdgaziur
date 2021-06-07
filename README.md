@@ -1,7 +1,7 @@
 ![](https://media.giphy.com/media/tuvMgAPzxaQBq/giphy.gif)
 # Hi there
 I'm a student. I love doing programming. I make webapps, blogs, and ui designs.
-- 🌱 I’m currently learning React, Typescript
+- 🌱 I’m currently learning Rust
 - 📫 How to reach me: mdgaziurrahmannoor@gmail.com
 
 ## My Skills
