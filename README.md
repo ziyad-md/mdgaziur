@@ -92,9 +92,9 @@ I'm a student. I love doing programming. I make computers do stuff in not a good
 ## My Recent Activity on Github
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/mdgaziur/chaterminal/pull/1) in [mdgaziur/chaterminal](https://github.com/mdgaziur/chaterminal)
-2. 🎉 Merged PR [#2](https://github.com/mdgaziur/chaterminal/pull/2) in [mdgaziur/chaterminal](https://github.com/mdgaziur/chaterminal)
-3. 🎉 Merged PR [#3](https://github.com/mdgaziur/chaterminal/pull/3) in [mdgaziur/chaterminal](https://github.com/mdgaziur/chaterminal)
-4. 🎉 Merged PR [#2](https://github.com/CodeMountainOJ/CodeMountain/pull/2) in [CodeMountainOJ/CodeMountain](https://github.com/CodeMountainOJ/CodeMountain)
-5. 💪 Opened PR [#2](https://github.com/CodeMountainOJ/CodeMountain/pull/2) in [CodeMountainOJ/CodeMountain](https://github.com/CodeMountainOJ/CodeMountain)
+1. 💪 Opened PR [#1](https://github.com/shoriful19/bhromor/pull/1) in [shoriful19/bhromor](https://github.com/shoriful19/bhromor)
+2. 🎉 Merged PR [#1](https://github.com/mdgaziur/chaterminal/pull/1) in [mdgaziur/chaterminal](https://github.com/mdgaziur/chaterminal)
+3. 🎉 Merged PR [#2](https://github.com/mdgaziur/chaterminal/pull/2) in [mdgaziur/chaterminal](https://github.com/mdgaziur/chaterminal)
+4. 🎉 Merged PR [#3](https://github.com/mdgaziur/chaterminal/pull/3) in [mdgaziur/chaterminal](https://github.com/mdgaziur/chaterminal)
+5. 🎉 Merged PR [#2](https://github.com/CodeMountainOJ/CodeMountain/pull/2) in [CodeMountainOJ/CodeMountain](https://github.com/CodeMountainOJ/CodeMountain)
 <!--END_SECTION:activity-->
